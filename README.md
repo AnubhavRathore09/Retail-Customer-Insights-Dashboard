@@ -52,6 +52,15 @@ This dashboard solves these problems by providing an interactive Business Intell
 
 ---
 
+# 🎥 Dashboard Demo
+
+Watch a quick walkthrough of the dashboard demonstrating interactive filters, KPI cards, maps, and business insights.
+
+> 📹 Demo Video
+
+
+---
+
 # 📈 Dashboard KPIs
 
 | KPI | Value |
